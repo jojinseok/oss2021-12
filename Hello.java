@@ -6,6 +6,7 @@ System.out.println("HELLO");
 System.out.println("new");
 System.out.println("world");
 System.out.println("Hi2");
+  System.out.println("HI~RU");
 }
 
 
