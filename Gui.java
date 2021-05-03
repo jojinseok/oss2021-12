@@ -1,3 +1,3 @@
 //GUI.java
 //// --newfunc java
-//asda (new func)
+da (new func)
